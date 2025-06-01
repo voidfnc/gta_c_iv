@@ -4,7 +4,7 @@ A real-time emoji processing system that intercepts all player chat messages and
 
 ![GTA:Connected](https://img.shields.io/badge/Platform-GTA%3AConnected-blue)
 ![Status](https://img.shields.io/badge/Status-Working-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.0-orange)
+![Version](https://img.shields.io/badge/Version-1.5.0-orange)
 
 ## ✨ Features
 
